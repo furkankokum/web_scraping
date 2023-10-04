@@ -1,1 +1,1 @@
-# web_scraping
+A project in which I scrape data from the websites of various white goods brands and access the product portfolio and detailed product information of the brands. If the data is regularly transferred to data warehouses, it can become a product where brand product comparisons and classifications are made. After this, this information is transferred to the dashboards and provides the sales department with the opportunity to make necessary changes in sales strategies in the light of this information.
